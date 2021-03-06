@@ -4,27 +4,27 @@ using System.Text;
 
 namespace TaxCalculator
 {
-    public class Product
+    public abstract class Product
     {
         private const decimal ImportedTaxRate = 5;
         private const decimal TaxRate = 10;
-        private readonly bool _isExampt;
         private readonly bool _isImport;
         private readonly string _name;
+        public virtual bool IsExampt => false;
+  
+        
         public decimal Subtotal { get; }
 
-
-        public Product(string name, bool isExampt, bool isImport, decimal subTotal) 
+        protected Product(string name, bool isImport, decimal subTotal) 
         {
-            _isExampt = isExampt;
             _isImport = isImport;
             Subtotal = subTotal;
             _name     = name;
         }
 
-        private decimal GetTaxRate() 
+        protected virtual decimal GetTaxRate() 
         {
-            decimal taxRate = _isExampt ? 0 : TaxRate;
+            var taxRate = IsExampt ? 0 : TaxRate;
             return (_isImport ? taxRate += ImportedTaxRate : taxRate) /  100;
         }
         public decimal GetTax()

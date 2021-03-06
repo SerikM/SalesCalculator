@@ -9,10 +9,10 @@ namespace TaxCalculator
         {
             var products = new List<Product>() 
             { 
-                new Product("Food", true, false, 20),
-                new Product("Book", true, false, 20),
-                new Product("Medical", false, true, 100),
-                new Product("Medical", true, true, 100),
+                new MusicProduct("Food", false, 20),
+                new MusicProduct("Book",  false, 20),
+                new BookProduct("Medical",true, 100),
+                new FoodProduct("Medical",  true, 100),
             };
 
             var receipt = new TaxCalculator(products).GetReceipt();
