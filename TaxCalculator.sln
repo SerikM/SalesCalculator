@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxCalculator", "TaxCalculator\TaxCalculator.csproj", "{4DCBBC2E-3FFC-4B0D-B25A-62317A7071F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorUnitTest", "CalculatorUnitTest\CalculatorUnitTest.csproj", "{31836C57-59B2-4D80-95CE-A566EFF24E3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DCBBC2E-3FFC-4B0D-B25A-62317A7071F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DCBBC2E-3FFC-4B0D-B25A-62317A7071F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DCBBC2E-3FFC-4B0D-B25A-62317A7071F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DCBBC2E-3FFC-4B0D-B25A-62317A7071F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31836C57-59B2-4D80-95CE-A566EFF24E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31836C57-59B2-4D80-95CE-A566EFF24E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31836C57-59B2-4D80-95CE-A566EFF24E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31836C57-59B2-4D80-95CE-A566EFF24E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C54F2E47-3BE9-49EA-B7AC-029E440F169E}
+	EndGlobalSection
+EndGlobal

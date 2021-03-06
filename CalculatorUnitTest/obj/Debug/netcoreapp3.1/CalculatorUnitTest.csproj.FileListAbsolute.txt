@@ -1,0 +1,4 @@
+C:\gitrepos\TaxCalculator\CalculatorUnitTest\obj\Debug\netcoreapp3.1\CalculatorUnitTest.csprojAssemblyReference.cache
+C:\gitrepos\TaxCalculator\CalculatorUnitTest\obj\Debug\netcoreapp3.1\CalculatorUnitTest.AssemblyInfoInputs.cache
+C:\gitrepos\TaxCalculator\CalculatorUnitTest\obj\Debug\netcoreapp3.1\CalculatorUnitTest.AssemblyInfo.cs
+C:\gitrepos\TaxCalculator\CalculatorUnitTest\obj\Debug\netcoreapp3.1\CalculatorUnitTest.csproj.CoreCompileInputs.cache

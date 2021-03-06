@@ -1,0 +1,13 @@
+C:\gitrepos\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.exe
+C:\gitrepos\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.deps.json
+C:\gitrepos\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.runtimeconfig.json
+C:\gitrepos\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.runtimeconfig.dev.json
+C:\gitrepos\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.dll
+C:\gitrepos\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.pdb
+C:\gitrepos\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.csprojAssemblyReference.cache
+C:\gitrepos\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.AssemblyInfoInputs.cache
+C:\gitrepos\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.AssemblyInfo.cs
+C:\gitrepos\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.csproj.CoreCompileInputs.cache
+C:\gitrepos\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.dll
+C:\gitrepos\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.pdb
+C:\gitrepos\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.genruntimeconfig.cache
